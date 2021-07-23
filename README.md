@@ -1,8 +1,21 @@
-# cpp_store
-Store univercity project with c++
+# cpp_store (Store univercity project with c++)
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Contact](#contact)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
 I wrote this project for advanced programming lesson in second term on Birjand Univercity of Technology.
 
-شرح پروژه:
 پروژه مدیریت فروشگاه به جهت سهولت مدیریت فروش
 سوپر مارکت و هایپر مارکت ها و با هدف جمع آوری
 اطلاعات فروش و چاپ فاکتور و ثبت اطلاعات مشتریان
@@ -14,6 +27,15 @@ I wrote this project for advanced programming lesson in second term on Birjand U
 این را دارد که در تمامی فروشگاه هایی که محصولی
 برای فروش دارند مانند نمایشگاه خودرو و ... استفاده
 شود.
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [C++](https://www.cplusplus.com/)
+
+
+## Features
 از دیگر قابلیت های این نرم افزار می توان به ذخیره
 ،int تا یازده رقم با فرمت )Qrcode( شناسه محصول
 عدم قبول مقادیر منفی و صفر، ذخیره قیمت و تعداد
@@ -54,4 +76,9 @@ I wrote this project for advanced programming lesson in second term on Birjand U
 در این پروژه از 6 کلاس فروشگاه، محصولات، مشتری ،
 خرید، مشتری معمولی و وی آی پی تشکیل شده
 است.
-ادامه در گزارش پروِژه... .
+ادامه در گزارش پروژه... .
+
+## Contact
+
+- Website [hireza.ir](https://{hireza.ir})
+- GitHub [@your-username](https://{github.com/reza-dehghani})
