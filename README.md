@@ -80,5 +80,5 @@ I wrote this project for advanced programming lesson in second term on Birjand U
 
 ## Contact
 
-- Website [hireza.ir](https://{hireza.ir})
-- GitHub [@your-username](https://{github.com/reza-dehghani})
+- Website [hireza.ir](https://hireza.ir)
+- GitHub [@reza-dehghani](https://github.com/reza-dehghani)
